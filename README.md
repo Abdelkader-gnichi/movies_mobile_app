@@ -25,6 +25,12 @@ Watchit is your ultimate movie discovery companion, powered by the extensive TMD
 
 Watchit is packed with features designed for the ultimate movie discovery experience.
 
+*   **Real-time data**:
+    *   Fetching and displaying real-time movie data
+
+*   **Home Page**:
+    *   Featured and discover movies
+
 *   **Comprehensive Movie Database:**
     *   Powered by the extensive [TMDB API](https://www.themoviedb.org/documentation/api), providing access to a massive library of films from around the world.
     *   Browse curated lists such as **Trending**, **Upcoming**, and **Top Rated** movies to always find something new to watch.
@@ -64,9 +70,15 @@ Here are some sneak peeks of the application.
 
 |                Home Screen                |              Movie Details              |
 | :---------------------------------------: | :---------------------------------------: |
-| _(Your Screenshot Here)_ | _(Your Screenshot Here)_ |
-| **Search & Discovery**                    | **User Profile**                          |
-| _(Your Screenshot Here)_ | _(Your Screenshot Here)_ |
+|<img width="1170" height="2532" alt="IMG_0219" src="https://github.com/user-attachments/assets/d5d7c70e-48c0-4ce0-a2bb-4f13836607ff" /> | <img width="1170" height="2532" alt="IMG_0221" src="https://github.com/user-attachments/assets/a05ad210-a9cc-4072-afb7-0b6b5715f46e" /> 
+<img width="1170" height="2532" alt="IMG_0222" src="https://github.com/user-attachments/assets/089d7499-c545-4c3e-aee2-bea4afb7fcff" /> |
+| **Search & Discovery**                    | **Trending Movies**                          |
+| <img width="1170" height="2532" alt="IMG_0224" src="https://github.com/user-attachments/assets/88d1c0e1-3bbe-4db0-a4f9-d2badd2fe979" />
+<img width="1170" height="2532" alt="IMG_0225" src="https://github.com/user-attachments/assets/8f55d2e3-72aa-4598-8683-f13e2c6dade7" /> | <img width="1170" height="2532" alt="IMG_0219" src="https://github.com/user-attachments/assets/a33d8586-4a04-4ca5-911a-8410e15af271" /> |
+
+
+<img width="1860" height="940" alt="Screenshot from 2025-09-08 11-28-05" src="https://github.com/user-attachments/assets/f984d789-ef75-4347-a4ba-ecd02d60f1f1" />
+
 
 ---
 
