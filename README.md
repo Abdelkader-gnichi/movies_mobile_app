@@ -135,7 +135,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. **Clone the repo**
    ```sh
-   git clone https://github.com/your_username/mobile_movie_app.git
+   git clone [https://github.com/your_username/mobile_movie_app.git](https://github.com/Abdelkader-gnichi/movies_mobile_app.git)
    ```
 2. **Navigate to the project directory**
    ```sh
